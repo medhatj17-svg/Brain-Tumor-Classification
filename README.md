@@ -64,29 +64,20 @@ The project also includes misclassification analysis to inspect incorrectly clas
 - OpenCV
 - Google Colab
 
+
 ## 📂 Dataset
 
-The project uses a Brain MRI dataset obtained from Kaggle.
+This project uses the [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) by Masoud Nickparvar on Kaggle.
 
-The dataset should be organized as follows:
+The dataset contains four classes:
+- Glioma
+- Meningioma
+- Pituitary
+- No Tumor
 
-```text
-Dataset/
-│
-├── Training/
-│   ├── glioma/
-│   ├── meningioma/
-│   ├── notumor/
-│   └── pituitary/
-│
-└── Testing/
-    ├── glioma/
-    ├── meningioma/
-    ├── notumor/
-    └── pituitary/
-```
+It is organized into Training and Testing folders.
 
-The dataset is not included in this repository due to its size.
+The dataset is not included in this repository due to its size. Please download it directly from Kaggle.
 
 ## 🚀 How to Run
 
