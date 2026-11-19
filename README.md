@@ -8,6 +8,12 @@ This project focuses on classifying brain MRI images into four categories using 
 
 The goal is to compare different classification approaches and evaluate their performance on brain tumor MRI images.
 
+## 🚀 Open in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medhatj17-svg/Brain-Tumor-Classification/blob/main/Brain_Tumor_Classification.ipynb)
+
+
+
 ### 🎯 Classification Classes
 
 - Glioma
